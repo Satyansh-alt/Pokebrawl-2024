@@ -1,0 +1,5 @@
+Pikachu.gif,90
+Squirtle.gif,130
+Meowth.gif,200
+Snorlax.gif,250
+Charizard.gif,300
